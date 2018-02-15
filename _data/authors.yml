@@ -1,0 +1,101 @@
+farzad:
+  name: فرزاد یوسف زاده
+  unique_id: farzad
+  github: https://github.com/farskid
+  stackoverflow: http://stackoverflow.com/users/2784512/farzad-yz
+  avatar: /assets/images/farzad.jpg
+  twitter: https://twitter.com/Farzad_YZ
+  website: https://farzadyz.com
+nima:
+  name: نیما هاشمی
+  unique_id: nima
+  github: https://github.com/niima
+  stackoverflow: http://stackoverflow.com/users/2784512/farzad-yz
+  avatar: /assets/images/nima.jpeg
+  twitter: https://twitter.com/_whoamiii
+  website: https://niima.github.io
+amir:
+  name: امیر مومنیان
+  unique_id: amir
+  github: https://github.com/nainemom
+  stackoverflow: http://stackoverflow.com/users/3077365/nainemom
+  avatar: /assets/images/amir.png
+  twitter: https://twitter.com/nainemom
+  website: https://morde.ir
+saeed:
+  name: سعید علیپور
+  unique_id: saeed
+  title: سعید علیپور
+  github: https://github.com/saeedalipoor
+  stackoverflow: http://stackoverflow.com/users/1923906/saeed-alipoor
+  avatar: /assets/images/saeed.jpeg
+  twitter: https://twitter.com/saeednitrate
+  bio: "A 3D Man; Dad, Dreamer, Devigner :)"
+jmosawy:
+  name: جف موسوی
+  unique_id: jmosawy
+  title: Jeff Mosawy
+  github: https://github.com/jmosawy
+  stackoverflow: http://stackoverflow.com/users/3438331/jmosawy
+  avatar: /assets/images/jmosawy.jpg
+  twitter: https://twitter.com/jmosawy
+  website: https://jmosawy.com
+  bio: "Full Stack Developer & JavaScript Enthusiast"
+jedlab:
+  name: جدلب
+  unique_id: jedlab
+  title: JEDLab (Java Education & Development Lab)
+  github: https://github.com/jedlab
+  avatar: /assets/images/jedlab.png
+  twitter: https://twitter.com/omidp
+  website: http://jedlab.ir
+  bio: "unapologetic Java developer"
+arastu:
+  name: توحید ارسطو
+  unique_id: arastu
+  title: Touhid Arasti
+  github: https://github.com/arastu
+  avatar: /assets/images/arastu.jpeg
+  twitter: https://twitter.com/arastuq
+  website: http://arastu.ir
+  bio: "Web Geek, SRE, DevOps at cafebazaar, Interested In Reliability, Performance, Scalability, *NIX, Golang, JavaScript, Python, Steak and Kebab"
+vahid:
+  name: وحید محمدی
+  unique_id: vahid
+  title: وحید محمدی
+  github: https://github.com/sorrow-poetry
+  stackoverflow: https://stackoverflow.com/users/5358899/sorrow-poetry
+  avatar: /assets/images/vahid.jpg
+  twitter: https://twitter.com/vahidm_sp
+  website: 
+  bio: "php and wordpress developer"
+aien:
+  name: آیین سعیدی
+  unique_id: aientech
+  title: آیین سعیدی
+  github: https://github.com/AienTech
+  stackoverflow: https://stackoverflow.com/users/3538479/aien-saidi
+  avatar: /assets/images/aien.jpg
+  twitter: https://twitter.com/aientech
+  website: http://saidi27.com
+  bio: "Aien is a full-stack web developer. He is currently a senior PHP developer and works with popular frameworks (e.g Symfony, etc), also popular JavaScript frameworks like React and Next.js. He is passionate about learning new things and technologies.r"
+erfun:
+  name: عرفان صحاف نژاد
+  unique_id: erfun
+  title: عرفان صحاف نژاد
+  github: https://github.com/erfansahaf
+  stackoverflow: https://stackoverflow.com/users/4402875/erfan-sahaf
+  avatar: /assets/images/erfun.jpg
+  twitter: https://twitter.com/erfansahaf
+  website: http://erfun.me
+  bio: "Just a normal guy who works as a Back-End developer."
+mahmoud:
+  name: محمود اسکندری
+  unique_id: mahmoud
+  title: محمود اسکندری
+  github: https://github.com/mahmoud-eskandari
+  stackoverflow: https://stackoverflow.com/users/3275298/m-eskandari
+  avatar: /assets/images/mahmoud.jpg
+  twitter: https://twitter.com/MahmoudEskandri
+  website: http://phpmysql.ir
+  bio: "Just a developer & penetration tester"

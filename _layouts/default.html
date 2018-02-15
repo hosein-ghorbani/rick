@@ -1,0 +1,49 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.name }}-{{ site.description }}{% endif %}</title>
+
+  {% include meta.html %}
+
+  <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+  <!--[if lt IE 8]>
+    <script>window.location.href = '/lessthanie8.html'</script>
+  <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+  <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml"
+  />
+
+  <script src="/pr.js"></script>
+
+</head>
+
+<body>
+
+  <div class="site__container">
+
+    <!-- Top Header -->
+    {% include header.html %}
+
+    <hr class="site__header__divider container" />
+
+    <main role="main" class="container">
+      {{ content }}
+    </div>
+
+    {% include footer.html %}
+
+  </div>
+  {% include analytics.html %}
+
+</body>
+
+</html>

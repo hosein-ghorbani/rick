@@ -1,0 +1,11 @@
+p
+{
+    direction: rtl;
+    font-family: Tahoma;
+}
+iframe
+{
+    border: 0px solid black;
+    width:90%;
+    height: auto;
+}
